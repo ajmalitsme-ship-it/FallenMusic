@@ -6,7 +6,7 @@ load_dotenv()
 
 
 API_ID = int(getenv("API_ID", 27806628))
-API_HASH = getenv("API_HASH", "8577192556:AAGvn0FXD2md_f9nFPYf0Ljn7oRGP_UuBdI")
+API_HASH = getenv("API_HASH", "25d88301e886b82826a525b7cf52e090")
 
 BOT_TOKEN = getenv("BOT_TOKEN", "8577192556:AAGvn0FXD2md_f9nFPYf0Ljn7oRGP_UuBdI")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "90"))
